@@ -206,7 +206,8 @@ body {
 	font-size: 14px;
 	font-weight: 700;
 	color: #fff;
-	text-decoration: none;
+    text-decoration: none;
+    text-transform: uppercase;
 
 	transition: background 0.1s linear, color 0.1s linear;
 }
